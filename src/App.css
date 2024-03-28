@@ -31,3 +31,6 @@ input {
   border-bottom: 1px solid #000;
   cursor: pointer;
 }
+.new-product {
+  padding-bottom: 30px;
+}
